@@ -1,7 +1,7 @@
 # WebStudio Project #1 z 8
 
 ## Opis
-Projekt `WebStudio` to dynamiczna i responsywna strona internetowa zaprojektowana dla wirtualnej agencji kreatywnej. Projekt realizowany jako zadanie domowe w ramach kursu GoIT, skupia się na przedstawieniu usług oferowanych przez studio, portfolio, informacji kontaktowych oraz przedstawieniu zespołu.
+Projekt `WebStudio` to przykładowa strona internetowa dla wirtualnej agencji kreatywnej, zaprojektowana w ramach zadania domowego. Projekt ten skupia się na przedstawieniu usług oferowanych przez studio, portfolio, informacji kontaktowych oraz zespołu.
 
 ## Technologie
 Projekt wykorzystuje następujące technologie:
